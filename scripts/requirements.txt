@@ -1,0 +1,4 @@
+requests
+trafilatura
+PyYAML
+python-slugify
