@@ -1,0 +1,41 @@
+sources:
+  - vendor: OpenAI
+    slug: openai
+    type: tos
+    url: https://openai.com/policies/terms-of-use
+  - vendor: OpenAI
+    slug: openai
+    type: privacy
+    url: https://openai.com/policies/privacy-policy
+  - vendor: Stripe
+    slug: stripe
+    type: pricing
+    url: https://stripe.com/pricing
+  - vendor: Stripe
+    slug: stripe
+    type: changelog
+    url: https://stripe.com/docs/changelog
+  - vendor: Slack
+    slug: slack
+    type: tos
+    url: https://slack.com/terms-of-service
+  - vendor: Notion
+    slug: notion
+    type: changelog
+    url: https://www.notion.so/releases
+  - vendor: GitHub
+    slug: github
+    type: changelog
+    url: https://github.blog/changelog/
+  - vendor: Cloudflare
+    slug: cloudflare
+    type: changelog
+    url: https://community.cloudflare.com/c/service-notifications/31
+  - vendor: Shopify
+    slug: shopify
+    type: tos
+    url: https://www.shopify.com/legal/terms
+  - vendor: Twilio
+    slug: twilio
+    type: changelog
+    url: https://www.twilio.com/changelog
